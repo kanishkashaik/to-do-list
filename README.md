@@ -7,8 +7,6 @@ This project helps users add, manage, and delete daily tasks easily.
 
 - ➕ Add new tasks
 - 🗑️ Delete tasks
-- ✔️ Mark tasks as completed (if you added this feature)
-- 💾 Data stored in browser (if you used localStorage)
 - 📱 Responsive design (works on mobile & desktop)
 
 ## 🛠️ Tech Stack
@@ -19,7 +17,7 @@ This project helps users add, manage, and delete daily tasks easily.
   
 ## 📸 Preview
 
-(Add screenshot of your project here)
+
 
 
 ## 📌 Project Purpose
