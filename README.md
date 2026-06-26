@@ -17,8 +17,7 @@ This project helps users add, manage, and delete daily tasks easily.
   
 ## 📸 Preview
 
-
-
+ https://kanishkashaik.github.io/to-do-list/
 
 ## 📌 Project Purpose
 
